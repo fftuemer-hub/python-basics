@@ -1,0 +1,5 @@
+Complaint ID,Department,Severity,Probability,Status
+101,Production,3,2,Closed
+102,QA,2,3,Open
+103,Supplier,4,4,Open
+104,R&D,1,1,Closed
